@@ -14,3 +14,8 @@ Depending on your choice you will be prompted to enter further information.
 
 All requests for data will be proessed and the response will appear in a file named 'log.txt'. 
 Happy Searching
+
+
+
+Here is a video of the app in action
+https://drive.google.com/file/d/1uc12B7QyOHUlqGc6b6b-igkc5ipE5QIu/view
